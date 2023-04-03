@@ -28,3 +28,6 @@ env((Circle)) -- R_ t --> agent
 env((Circle)) -- S_ t+1 --> agent
 agent -- A_ t --> env((Circle))
 ```
+
+
+For practical phase, let's look as [Intro](https://github.com/aSafarpoor/RL-simple-tutorial/blob/main/codes/intro.ipynb).
