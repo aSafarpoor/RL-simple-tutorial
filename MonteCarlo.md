@@ -1,6 +1,6 @@
 
 # RL: Monte Carlo
-WHat MC do? Learn $v_*$ , $q_*$ based on experiance.
+WHat MC do? Learn $v_\*$ , $q_\*$ based on experiance.
 
 Entire episodes(consequence): 
 $S_0,A_0,R_1,...,S_{\tau-1},A_{\tau-1},R_{\tau}$
