@@ -17,7 +17,7 @@ classifications:
 * Finite vs Infinite
 * episodic vs continuing
 
-**Trajectory$\tau$**
+**Trajectory** $\tau$:
 chain of $(S_i,A_i,R_i)$ 
 
 **Discount Factor($\gamma$)**
