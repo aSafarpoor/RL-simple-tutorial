@@ -13,7 +13,7 @@ $G_t=\sum_{k=0}^{T-\tau-1}\gamma^kR_{t+k+1}$
 
 Based on Law of large numbers:
 
-$P(lim_{n\to\infty}\tilde{G}_s=v_\pi(s))=1$
+$$P(lim_{n\to\infty}\tilde{G}_s=v_\pi(s))=1$$
 
 Advantages of Monte Carlo methods:
 * The stimate of a state does not depends on the rest.
